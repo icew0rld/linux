@@ -2,7 +2,7 @@
 
 [Useful Resources](Useful-Resources.md)
 
-[一个Linux C程序的生命周期](一个Linux C程序的生命周期.md)
+[一个Linux C程序的生命周期](一个Linux-C程序的生命周期.md)
 
 进程
 
